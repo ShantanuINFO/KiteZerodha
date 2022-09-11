@@ -62,7 +62,7 @@ public class Test_Class extends Base {
 	 @AfterClass
 	 public void closeApp() {
 		 Reporter.log("Browser close");
-		 system.out.println("Hii")
+		 system.out.println("Hii");
 	 }
 	  
 	  
